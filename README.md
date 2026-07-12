@@ -1,5 +1,9 @@
 # 💫 About Me:
-Building practical AI agents and smart web prototypes.<br>Fast-paced hackathons and open-source software projects.<br>DSA as routine<br>webdev/AIML on weekends<br>Python, C/C++, HTML/CSS, Canva
+* 🤖 Building practical AI agents and smart web prototypes.
+* ⚡ Fast-paced hackathons and open-source software projects.
+* 📚 DSA as routine.
+* 🌐 WebDev/AIML on weekends.
+* 🛠️ Tech Stack: Python, C/C++, HTML/CSS, Canva.
 
 
 ## 🌐 Socials:
@@ -11,8 +15,3 @@ Building practical AI agents and smart web prototypes.<br>Fast-paced hackathons 
 ![](https://github-readme-stats.shion.dev/api?username=ashishsuniltiwari&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashishsuniltiwari&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashishsuniltiwari&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=ashishsuniltiwari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

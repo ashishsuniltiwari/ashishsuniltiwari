@@ -1,7 +1,7 @@
 # 💫 About Me:
 * 🤖 Building practical AI agents and smart web prototypes.
 * ⚡ Fast-paced hackathons and open-source software projects.
-* 🌐 Webdev/AIML focused
+* 🌐 Webdev/AIML
 * 🛠️ Tech Stack: Python, C/C++, HTML/CSS, Canva.
 
 
